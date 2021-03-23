@@ -1,1 +1,1 @@
-# hubm_assignments_term2
+This repository includes the solutions for programming assignments in 2nd term of university.
