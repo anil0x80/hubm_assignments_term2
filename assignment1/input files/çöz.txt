@@ -1,0 +1,64 @@
+---Lev Tolstoy---
+Jeans	49.99	2	99.98
+Hat	29.99	1	29.99
+Gloves	21.0	1	21.0
+Socks	21.0	4	84.0
+Total	234.97
+---Ivan Turgenyev---
+Sweater	49.99	4	199.96
+Jeans	29.99	4	119.96
+Gloves	23.0	2	46.0
+Underwear	429.99	1	429.99
+Hat	49.99	3	149.97
+Total	945.8800000000001
+---Vasilyevic Gogol---
+Hat	9.99	5	49.95
+Tshirt	29.99	7	209.92999999999998
+Underwear	299.99	2	599.98
+Socks	15.0	4	60.0
+Total	919.86
+---Maksim Gorki---
+Gloves	14.99	4	59.96
+Tshirt	24.99	10	249.89999999999998
+Jeans	99.99	1	99.99
+Underwear	199.99	2	399.98
+Total	809.8299999999999
+---Anton Cehov---
+Hat	14.99	5	74.95
+Tshirt	24.99	2	49.98
+Jeans	54.99	4	219.96
+Socks	14.0	4	56.0
+Total	400.89
+---Ivan Gonçarov---
+Sweater	79.99	7	559.93
+Tshirt	19.99	4	79.96
+Jeans	49.99	3	149.97
+Total	789.86
+---Aleksandr Puskin---
+Jeans	199.99	10	1999.9
+Gloves	10.0	10	100.0
+Socks	15.0	10	150.0
+Underwear	299.99	10	2999.9
+Hat	9.99	10	99.9
+Total	5349.7
+---Mihail Solohov---
+Hat	69.99	7	489.92999999999995
+Underwear	279.99	8	2239.92
+Socks	17.0	3	51.0
+Total	2780.85
+---Andrey Tarkovski---
+Hat	14.99	3	44.97
+Jeans	69.99	4	279.96
+Sweater	69.99	3	209.96999999999997
+Total	534.8999999999999
+---Fyodor Dostoyevsky---
+Jeans	59.99	5	299.95
+Tshirt	19.99	5	99.94999999999999
+Sweater	29.99	5	149.95
+Underwear	259.99	5	1299.95
+Gloves	20.0	5	100.0
+Socks	20.0	5	100.0
+Hat	19.99	5	99.94999999999999
+Total	2149.75
+
+Process finished with exit code 0
