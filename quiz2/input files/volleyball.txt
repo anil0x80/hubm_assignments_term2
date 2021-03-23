@@ -1,0 +1,4 @@
+1.	Pythonspor	3	3	0	0	9:6	6
+2.	Cspor	3	2	0	1	8:6	6
+3.	Javaspor	3	1	0	2	7:7	5
+4.	Delphispor	3	0	0	3	4:9	1

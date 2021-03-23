@@ -1,0 +1,4 @@
+1.	Cemilspor	3	3	0	0	155:142	6
+2.	Selmanspor	3	2	0	1	179:96	5
+3.	Nebispor	3	1	0	2	159:111	4
+4.	Baharspor	3	0	0	3	51:195	3

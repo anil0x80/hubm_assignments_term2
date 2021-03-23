@@ -1,0 +1,4 @@
+1.	GOTspor	3	2	0	1	70:60	4
+2.	Mrrobotspor	3	2	0	1	70:68	4
+3.	Lostspor	3	1	0	2	72:69	2
+4.	Blackmirrorspor	3	1	0	2	59:74	2
