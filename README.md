@@ -7,7 +7,7 @@ Online Shopping Market
 Inheritance
 
 # Assignment 3
-Inheritance and Polimorphism
+Inheritance and Polymorphism
 
 # Assinment 4
 Stack and Queue Operations
